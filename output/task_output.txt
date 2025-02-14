@@ -1,0 +1,1 @@
+Processed output for task: The file /data/dates.txt contains a list of dates, one per line. Count the number of Wednesdays in the list, and write just the number to /data/dates-wednesdays.txt
